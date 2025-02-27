@@ -1,11 +1,11 @@
-# Okeamah-Node 🚀
+# Boom-Node 🚀
 
-![Okeamah-Node Banner](https://your-image-link-here.com)  
+![Boom-Node Banner](https://your-image-link-here.com)  
 
-Welcome to **Okeamah-Node**, an organization under **Boom Token Lab**, dedicated to decentralized infrastructure, blockchain development, and Web3 innovation.
+Welcome to **Boom-Node**, an organization under **Boom Token Lab**, dedicated to decentralized infrastructure, blockchain development, and Web3 innovation.
 
-## 🔹 About Okeamah-Node  
-Okeamah-Node focuses on:
+## 🔹 About Boom-Node  
+Boom-Node focuses on:
 - **Blockchain Node Operations** 🖥️  
 - **Decentralized Applications (DApps)** 🌍  
 - **Web3 Infrastructure Development** ⚡  
